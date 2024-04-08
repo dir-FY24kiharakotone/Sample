@@ -1,5 +1,4 @@
 package Sample;
-
 public class ExcepitonExample1 {
 
     public static void main(String[] args) {
